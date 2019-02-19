@@ -7,7 +7,7 @@ var Timer = React.createClass({
         return(
             <div>
                   <h4>Timer.jsx</h4>
-                  <Clock/>
+                  <Clock totalSeconds={129}/>
 
             </div>
           
